@@ -14,7 +14,7 @@ coding is done for  that appends a table to your web page and then adds new rows
   5. `shape`
   
  * Using a date form in your HTML document and writing JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
- * In javascript code, I have selected the unique values from each selection criteria and loaded them in drop down menu for selection purposes.
+ * In javascript code, I have selected the unique values from each selection criteria and loaded them in drop down menu for selection purposes using d3 library.
   
  ![alt text](https://github.com/shaveta08/JavaScript-and-DOM-Manipulation/blob/master/images/Capture.PNG)
  
